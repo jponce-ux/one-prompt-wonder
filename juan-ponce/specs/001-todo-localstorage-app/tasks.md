@@ -28,9 +28,9 @@ description: "Tasks for TODO LocalStorage App"
 
 ## Phase 4: Validate
 
-- [ ] T010 Run local manual validation from `specs/001-todo-localstorage-app/quickstart.md`
-- [ ] T011 Run `npm run build` from `frontend/`
-- [ ] T012 Mark completed tasks `[X]` and note skipped scope
+- [X] T010 Run local manual validation from `specs/001-todo-localstorage-app/quickstart.md`
+- [X] T011 Run `npm run build` from `frontend/`
+- [X] T012 Mark completed tasks `[X]` and note skipped scope
 
 ## Notes
 

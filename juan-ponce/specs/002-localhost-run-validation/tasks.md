@@ -20,10 +20,10 @@ description: "Tasks for Localhost Run Validation"
 
 ## Phase 3: Validate
 
-- [ ] T005 Run `npm install` in `frontend/`
-- [ ] T006 Run `npm run build` in `frontend/`
-- [ ] T007 Confirm app can launch with `npm run dev` at `http://localhost:5173`
-- [ ] T008 Mark completed tasks `[X]` and note skipped scope
+- [X] T005 Run `npm install` in `frontend/`
+- [X] T006 Run `npm run build` in `frontend/`
+- [X] T007 Confirm app can launch with `npm run dev` at `http://localhost:5173`
+- [X] T008 Mark completed tasks `[X]` and note skipped scope
 
 ## Notes
 
