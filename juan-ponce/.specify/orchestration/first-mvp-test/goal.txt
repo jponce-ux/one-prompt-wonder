@@ -1,0 +1,1 @@
+Create a TODO list web app that does not require login, stores data in browser localStorage, and can be launched locally at localhost in a monorepo.
