@@ -15,8 +15,8 @@ description: "Tasks for Localhost Run Validation"
 
 ## Phase 2: Documentation
 
-- [ ] T003 [US1] Add local TODO app startup instructions to `README.md`
-- [ ] T004 [US2] Confirm validation steps are documented in `specs/002-localhost-run-validation/quickstart.md`
+- [X] T003 [US1] Add local TODO app startup instructions to `README.md`
+- [X] T004 [US2] Confirm validation steps are documented in `specs/002-localhost-run-validation/quickstart.md`
 
 ## Phase 3: Validate
 
