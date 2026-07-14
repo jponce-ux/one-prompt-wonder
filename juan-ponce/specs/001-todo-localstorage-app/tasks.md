@@ -10,8 +10,8 @@ description: "Tasks for TODO LocalStorage App"
 
 ## Phase 1: Setup
 
-- [ ] T001 Create Vite React TypeScript structure in `frontend/`
-- [ ] T002 Add app entry files in `frontend/src/main.tsx` and `frontend/src/vite-env.d.ts`
+- [X] T001 Create Vite React TypeScript structure in `frontend/`
+- [X] T002 Add app entry files in `frontend/src/main.tsx` and `frontend/src/vite-env.d.ts`
 
 ## Phase 2: Frontend Logic
 

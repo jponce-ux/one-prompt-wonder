@@ -10,8 +10,8 @@ description: "Tasks for Localhost Run Validation"
 
 ## Phase 1: Setup
 
-- [ ] T001 Ensure `frontend/package.json` has `dev`, `build`, and `preview` scripts
-- [ ] T002 Ensure Vite config exists in `frontend/vite.config.ts`
+- [X] T001 Ensure `frontend/package.json` has `dev`, `build`, and `preview` scripts
+- [X] T002 Ensure Vite config exists in `frontend/vite.config.ts`
 
 ## Phase 2: Documentation
 
