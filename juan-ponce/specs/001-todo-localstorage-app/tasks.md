@@ -15,16 +15,16 @@ description: "Tasks for TODO LocalStorage App"
 
 ## Phase 2: Frontend Logic
 
-- [ ] T003 [US1] Define Todo type and localStorage helpers in `frontend/src/App.tsx`
-- [ ] T004 [US1] Implement add, toggle, delete, and persistence logic in `frontend/src/App.tsx`
-- [ ] T005 [US2] Implement all, active, and completed filters in `frontend/src/App.tsx`
-- [ ] T006 [US1] Show total, active, and completed counts in `frontend/src/App.tsx`
+- [X] T003 [US1] Define Todo type and localStorage helpers in `frontend/src/App.tsx`
+- [X] T004 [US1] Implement add, toggle, delete, and persistence logic in `frontend/src/App.tsx`
+- [X] T005 [US2] Implement all, active, and completed filters in `frontend/src/App.tsx`
+- [X] T006 [US1] Show total, active, and completed counts in `frontend/src/App.tsx`
 
 ## Phase 3: Frontend UI
 
-- [ ] T007 [US1] Build form, empty state, todo list, and item controls in `frontend/src/App.tsx`
-- [ ] T008 [US2] Build filter controls in `frontend/src/App.tsx`
-- [ ] T009 [US1] Add responsive plain CSS in `frontend/src/styles.css`
+- [X] T007 [US1] Build form, empty state, todo list, and item controls in `frontend/src/App.tsx`
+- [X] T008 [US2] Build filter controls in `frontend/src/App.tsx`
+- [X] T009 [US1] Add responsive plain CSS in `frontend/src/styles.css`
 
 ## Phase 4: Validate
 
