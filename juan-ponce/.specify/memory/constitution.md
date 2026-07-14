@@ -40,6 +40,8 @@ The constitution skill runs first and sets these defaults for the rest of the sp
 - Auth: skip unless the idea explicitly needs users. If users are required, use the simplest local email/password or demo user flow.
 - Deployment: local-first. Add deployment only when requested.
 
+For the first MVP test app, the project is frontend-only: Vite, React, TypeScript, plain CSS, and browser `localStorage`. No backend, login, server database, or deployment setup is required.
+
 ## Development Workflow
 
 Build in this order:
