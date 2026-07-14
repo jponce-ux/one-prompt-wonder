@@ -10,6 +10,14 @@
 
 Make the TODO app runnable locally from the monorepo with minimal commands. Document the startup and manual validation path so a beginner can open the app at localhost and confirm the core flow works.
 
+## Clarifications
+
+### Session 2026-07-14
+
+- Q: Should local launch require backend services? -> A: No, frontend-only Vite dev server.
+- Q: Which package manager should be documented? -> A: npm, because it is the simplest common default.
+- Q: What validation is enough? -> A: Build command plus short manual browser checks.
+
 ## User Scenarios
 
 ### User Story 1 - Launch locally (P1)
@@ -37,6 +45,7 @@ As a developer, I can follow short manual steps to verify the app works.
 - **FR-002**: Project MUST run the frontend at a localhost URL through Vite.
 - **FR-003**: Project MUST include quickstart instructions for install, launch, and manual validation.
 - **FR-004**: Project MUST keep local run setup frontend-only with no backend requirement.
+- **FR-005**: Project MUST document the default Vite URL as `http://localhost:5173`.
 
 ### Data
 

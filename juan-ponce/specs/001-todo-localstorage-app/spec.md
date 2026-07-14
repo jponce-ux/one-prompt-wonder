@@ -10,6 +10,14 @@
 
 Build the smallest useful no-login TODO web app. Users can add tasks, mark them complete, delete them, filter the visible list, and keep the list after a refresh through browser `localStorage`.
 
+## Clarifications
+
+### Session 2026-07-14
+
+- Q: Should the TODO app support accounts or multiple users? -> A: No, this MVP is a single-browser local app with no login.
+- Q: What storage should be used? -> A: Browser `localStorage`.
+- Q: What frontend structure should be used? -> A: One Vite React app under `frontend/` with local state and plain CSS.
+
 ## User Scenarios
 
 ### User Story 1 - Manage todos locally (P1)
@@ -43,6 +51,7 @@ As a local user, I can switch between all, active, and completed views so the li
 - **FR-005**: System MUST restore todos from `localStorage` when the app loads.
 - **FR-006**: System MUST let users filter todos by all, active, and completed.
 - **FR-007**: System MUST show counts for total, active, and completed todos.
+- **FR-008**: System MUST trim todo text and ignore empty submissions.
 
 ### Data
 
